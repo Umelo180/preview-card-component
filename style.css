@@ -83,7 +83,7 @@ span {
   text-align: center;
   color: rgb(175, 175, 175);
   margin-left: 55px;
-  margin-bottom: 32px;
+  margin-bottom: 40px;
   width: 70%;
 }
 
@@ -113,7 +113,7 @@ h3 {
   font-weight: 600;
   text-align: center;
   color: rgb(175, 175, 175);
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   text-decoration: none;
   text-transform: uppercase;
   /* position: absolute; */
@@ -124,7 +124,7 @@ h3 {
   
   
 .post-3 {
-  padding-bottom: 32px;
+  padding-bottom: 50px;
 }
 
 @media (min-width: 900px) {
